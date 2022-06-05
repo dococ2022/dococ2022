@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **dococ2022@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 
 #### Top Technologies
