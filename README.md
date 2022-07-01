@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **dococ2022@gmail.com**
+
 
 
 
